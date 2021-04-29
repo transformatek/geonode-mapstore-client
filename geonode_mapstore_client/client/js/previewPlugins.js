@@ -39,7 +39,7 @@ import SwipeHeader from '@mapstore/framework/components/data/identify/SwipeHeade
 
 const pluginsDefinition = {
     plugins: {
-        // MapPlugin,
+        MapPlugin,
         IdentifyPlugin,
         ToolbarPlugin,
         ZoomAllPlugin,

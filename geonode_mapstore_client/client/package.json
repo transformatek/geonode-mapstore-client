@@ -38,8 +38,8 @@
   },
   "geonode": {
     "devServer": {
-      "host": "localhost",
-      "protocol": "http"
+      "host": "geoweba.transformatek.dz",
+      "protocol": "https"
     }
   }
 }
