@@ -17,6 +17,15 @@ object-assign
 */
 
 /*!
+<<<<<<< HEAD
+=======
+  Copyright (c) 2018 Jed Watson.
+  Licensed under the MIT License (MIT), see
+  http://jedwatson.github.io/classnames
+*/
+
+/*!
+>>>>>>> Rebrand of Mapstor Client to meet Geoweba Theme (#1)
   Copyright (c) 2018 Jed Watson.
   Licensed under the MIT License (MIT), see
   http://jedwatson.github.io/react-select
@@ -64,8 +73,11 @@ object-assign
 
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
+<<<<<<< HEAD
 /** @license MIT License (c) copyright 2010-2014 original author or authors */
 
+=======
+>>>>>>> Rebrand of Mapstor Client to meet Geoweba Theme (#1)
 /** @license React v0.16.2
  * scheduler.production.min.js
  *
