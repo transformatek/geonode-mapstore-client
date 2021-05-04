@@ -38,7 +38,7 @@
   },
   "geonode": {
     "devServer": {
-      "host": "localhost:8000",
+      "host": "localhost",
       "protocol": "http"
     }
   }
