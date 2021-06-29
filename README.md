@@ -220,7 +220,7 @@ Steps needed for the initial setup, Open a terminal in your workspace directory 
 
 - A new `geonode-mapstore-client/` should be available in your workspace.
 
-Note: ensure the `geonode-mapstore-client/geonode_mapstore_client/client/MapStore2` is not empty. If the `geonode-mapstore-client/geonode_mapstore_client/client/MapStore2` is empty run the command `git submodule update` inside the `geonode-mapstore-client/` directory.
+Note: ensure the `geonode-mapstore-client/geonode_mapstore_client/client/MapStore2` is not empty. If the `geonode-mapstore-client/geonode_mapstore_client/client/MapStore2` is empty run the command `git submodule update --init --recursive -q` inside the `geonode-mapstore-client/` directory.
 
 - Change directory to the client folder:
 
