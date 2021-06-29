@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 geonode-mapstore-client-v2.0.9-10cfa005d3f36815fd3ac035c9ccd76cbcb1e757
+=======
+geonode-mapstore-client-v2.0.9-c65a37d84a37f45ce72899b4b47abdcaae428c51
+>>>>>>> update client bundle

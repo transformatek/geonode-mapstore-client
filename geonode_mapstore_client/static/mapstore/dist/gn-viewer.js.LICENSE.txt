@@ -56,6 +56,7 @@ object-assign
 
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
+<<<<<<< HEAD
 <<<<<<< HEAD:geonode_mapstore_client/static/mapstore/dist/gn-viewer.js.LICENSE.txt
 /** @license MIT License (c) copyright 2010-2014 original author or authors */
 =======
@@ -63,6 +64,8 @@ object-assign
  */
 >>>>>>> Rebrand of Mapstor Client to meet Geoweba Theme (#1):geonode_mapstore_client/static/mapstore/dist/ms2-geonode-api.js.LICENSE.txt
 
+=======
+>>>>>>> update client bundle
 /** @license React v0.16.2
  * scheduler.production.min.js
  *

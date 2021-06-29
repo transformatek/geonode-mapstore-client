@@ -21,6 +21,7 @@ object-assign
 =======
   Copyright (c) 2018 Jed Watson.
   Licensed under the MIT License (MIT), see
+<<<<<<< HEAD
   http://jedwatson.github.io/classnames
 */
 
@@ -28,6 +29,8 @@ object-assign
 >>>>>>> Rebrand of Mapstor Client to meet Geoweba Theme (#1)
   Copyright (c) 2018 Jed Watson.
   Licensed under the MIT License (MIT), see
+=======
+>>>>>>> update client bundle
   http://jedwatson.github.io/react-select
 */
 

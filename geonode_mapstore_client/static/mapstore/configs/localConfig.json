@@ -664,6 +664,7 @@
                     "type": "link",
                     "href":"${detail_url}/remove",
                     "labelId": "gnhome.delete",
+                    "perms": [{ "type": "resource", "value": "delete_resourcebase" }],
                     "icon": "trash",
                     "authenticated": true,
                     "perms": [{ "type": "resource", "value": "delete_resourcebase" }],
