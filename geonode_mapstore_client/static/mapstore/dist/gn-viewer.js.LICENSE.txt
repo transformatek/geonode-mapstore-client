@@ -56,12 +56,6 @@ object-assign
 
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
-<<<<<<< HEAD:geonode_mapstore_client/static/mapstore/dist/gn-viewer.js.LICENSE.txt
-=======
-/** * @license Apache-2.0
- */
-
->>>>>>> geoweba:geonode_mapstore_client/static/mapstore/dist/ms2-geonode-api.js.LICENSE.txt
 /** @license React v0.16.2
  * scheduler.production.min.js
  *

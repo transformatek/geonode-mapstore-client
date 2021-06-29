@@ -1,0 +1,1 @@
+(self.webpackChunkgeonode_mapstore_client=self.webpackChunkgeonode_mapstore_client||[]).push([[3292],{13292:(e,n,o)=>{var c=o(45266).coordEach;e.exports=function(e){var n=[1/0,1/0,-1/0,-1/0];return c(e,(function(e){n[0]>e[0]&&(n[0]=e[0]),n[1]>e[1]&&(n[1]=e[1]),n[2]<e[0]&&(n[2]=e[0]),n[3]<e[1]&&(n[3]=e[1])})),n}}}]);
