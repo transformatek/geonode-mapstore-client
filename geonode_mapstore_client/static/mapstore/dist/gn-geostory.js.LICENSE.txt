@@ -56,11 +56,8 @@ object-assign
 
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
-<<<<<<< HEAD
 /** @license MIT License (c) copyright 2010-2014 original author or authors */
 
-=======
->>>>>>> Rebrand of Mapstor Client to meet Geoweba Theme (#1)
 /** @license React v0.16.2
  * scheduler.production.min.js
  *

@@ -70,6 +70,7 @@
             "privacy": "Privacy",
             "extent": "Estensione",
             "enableFilterByExtent": "Abilita filtro per estensione",
+            "advancedSearch": "Ricerca avanzata",
             "apply": "Applica",
             "clearFilters": "Cancella filtri",
 
@@ -127,7 +128,8 @@
             "editMetadata": "Modifica Metadati",
             "editStyle": "Modifica Stile",
             "editData": "Modifica Dati",
-            "backToDataset": "Torna al Dataset"
+            "backToDataset": "Torna al Dataset",
+            "uploadImage": "Clicca o trascina un'immagine"
         }
     }
 }

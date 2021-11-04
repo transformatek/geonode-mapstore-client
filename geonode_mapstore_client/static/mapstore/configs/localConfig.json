@@ -20,6 +20,7 @@
             "method": "bearer"
         }
     ],
+    "defaultLayerFormat": "image/png",
     "geoNodeApi": {
         "endpointAdapter": "/mapstore/rest",
         "endpointAutocomplete": "/base/autocomplete_response",
@@ -409,7 +410,7 @@
                         {
                             "type": "link",
                             "href": "/favourite/list/",
-                            "labelId": "gnhome.favourites"
+                            "labelId": "gnhome.favorites"
                         },
                         {
                             "type": "link",
@@ -664,7 +665,6 @@
                     "type": "link",
                     "href":"${detail_url}/remove",
                     "labelId": "gnhome.delete",
-                    "perms": [{ "type": "resource", "value": "delete_resourcebase" }],
                     "icon": "trash",
                     "authenticated": true,
                     "perms": [{ "type": "resource", "value": "delete_resourcebase" }],
@@ -3600,6 +3600,7 @@
             },
             { "name": "BrandNavbar" },
             { "name": "DetailViewer"},
+            { "name": "Save" },
             {"name": "MediaViewer"}
         ]
     }
